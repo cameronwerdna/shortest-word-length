@@ -1,0 +1,1 @@
+function which takes a string and returns the length of the smallest word. for codewars problem 'Shortest Word'. could find some edge cases to break it but majority of strings wouldn't cause ruckus.
